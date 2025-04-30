@@ -65,7 +65,7 @@ ruta.agregar_estacion("Estación E")  # Última estación
 
 ruta.mostrar_ruta()
 
-origen = "Estación A"
+origen = "Estación C"
 destino = "Estación E"
 tiempo = ruta.calcular_tiempo(origen, destino)
 
